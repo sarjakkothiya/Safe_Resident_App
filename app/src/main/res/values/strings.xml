@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Safe Resident</string>
+    <string name="cloudAPIKey">AIzaSyCdGdn-QjGaTleKE-jyomfbBzt0EkhfckQ</string>
+    <string name="map">Map</string>
+    <string name="track">Track</string>
+    <string name="live">Live</string>
+    <string name="s911">Alert</string>
+    <string name="alert">Report</string>
+</resources>
